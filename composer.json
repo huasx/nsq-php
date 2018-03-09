@@ -1,0 +1,19 @@
+{
+  "name": "job/nsq-php",
+  "description": "new nsq sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hsx",
+      "email": "huashunxin01@gmail.com"
+    }
+  ],
+  "require": {
+    "php":">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Job\\Nsq\\": "src/"
+    }
+  }
+}

@@ -9,7 +9,7 @@ Add the dependency to `composer.json`:
 "repositories": [
     {
       "type": "git",
-      "url": "git@git.verystar.cn:huasx/nsq-php.git"
+      "url": "git@github.com:huasx/nsq-php.git"
     },
 },
 
